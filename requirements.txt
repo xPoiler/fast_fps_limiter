@@ -1,0 +1,8 @@
+# Python dependencies for the FPS Limiter project
+
+# Used for getting process information (e.g., name from PID)
+psutil
+
+# Used for all Windows API interactions (listing windows, injecting DLLs)
+# Note: The user must have this installed in their environment.
+pywin32
